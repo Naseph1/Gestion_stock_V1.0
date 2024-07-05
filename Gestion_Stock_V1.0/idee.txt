@@ -1,8 +1,1 @@
-//afficher les produits par ordre croissant
-//verifier les dates c'est a dire la date de livraison ne peut pas etre superieur a la date d'expiration
-// sur la liste des produits on pourra afficher par categorie par date par 
-//verification de suppression
-//gestion des notifications pour l'admin
-//activer l'option recherche pour rechercher 
-//reduire les id apres une suppression
-//fais en sorte que quand on mofifie un fournisseur sa modifife aussi sur le produit
+
